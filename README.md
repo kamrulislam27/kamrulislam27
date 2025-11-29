@@ -1,6 +1,18 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) 
 
-<h1 align="center">Hello there 👋, I'm Kamrul Islam </h1>
+# 💫 Hi 👋, I'm Kamrul Islam
+
+
+A passionate developer focusing on:
+
+- 💡 WordPress Websites → full setup, customization, optimizations
+- 🐍 Python Automation & Tools → file converters, scripts, utilities
+- 🧠 Interested in AI, Computer Vision & Machine Learning
+
+I enjoy turning ideas into working software and building practical solutions that help people.
+
+- 🌱 Currently learning: advanced Python, AI workflows, cloud tools
+- 📫 Contact me anytime for projects or collaboration!
 
 
 ## 🌐 Socials:
